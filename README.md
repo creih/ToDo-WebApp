@@ -17,3 +17,6 @@ this is my own implementation of a simple todo list web app with use of react fo
 - user can modify the task details
 - user can check the task for completed or undone yet
 - user can delete crated tasks
+
+![CoDi image](https://github.com/user-attachments/assets/3f9280b9-edfb-4002-abb8-7e1aad76d2e6)
+
