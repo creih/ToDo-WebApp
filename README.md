@@ -17,3 +17,9 @@ this is my own implementation of a simple todo list web app with use of react fo
 - user can modify the task details
 - user can check the task for completed or undone yet
 - user can delete crated tasks
+
+
+## resources
+
+- (django official docs)[https://www.djangoproject.com/]
+- (ReactJS official docs)[https://react.dev/]
